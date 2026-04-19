@@ -1,0 +1,5 @@
+[console_scripts]
+fake_odom_node = auto_nav_pioneer_pkg.utils.fake_odom_node:main
+pure_pursuit_controller_node = auto_nav_pioneer_pkg.navigation.pure_pursuit_controller_node:main
+safety_teleop_node = auto_nav_pioneer_pkg.teleop.safety_teleop_node:main
+waypoint_manager_node = auto_nav_pioneer_pkg.navigation.waypoint_manager_node:main

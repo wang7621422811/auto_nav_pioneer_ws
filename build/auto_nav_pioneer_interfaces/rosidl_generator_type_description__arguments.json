@@ -1,0 +1,13 @@
+{
+  "package_name": "auto_nav_pioneer_interfaces",
+  "output_dir": "/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_interfaces/rosidl_generator_type_description/auto_nav_pioneer_interfaces",
+  "idl_tuples": [
+    "/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_interfaces/rosidl_adapter/auto_nav_pioneer_interfaces:msg/Waypoint.idl",
+    "/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_interfaces/rosidl_adapter/auto_nav_pioneer_interfaces:msg/WaypointList.idl"
+  ],
+  "include_paths": [
+    "std_msgs:/opt/ros/jazzy/share/std_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces",
+    "geometry_msgs:/opt/ros/jazzy/share/geometry_msgs"
+  ]
+}

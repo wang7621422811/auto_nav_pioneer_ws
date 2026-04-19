@@ -1,0 +1,242 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-a91418a42f1553fa0c6e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "auto_nav_pioneer_interfaces__py",
+					"jsonFile" : "directory-auto_nav_pioneer_interfaces__py-eb53fcda4523c8d26df1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_interfaces/auto_nav_pioneer_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "auto_nav_pioneer_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_auto_nav_pioneer_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_auto_nav_pioneer_interfaces_egg-9a77d271c412300cdc20.json",
+					"name" : "ament_cmake_python_build_auto_nav_pioneer_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_auto_nav_pioneer_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_auto_nav_pioneer_interfaces-947175943bf70029d910.json",
+					"name" : "ament_cmake_python_symlink_auto_nav_pioneer_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces-855869c40978377926c9.json",
+					"name" : "auto_nav_pioneer_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__cpp-854724769ddd6ebdeee1.json",
+					"name" : "auto_nav_pioneer_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "auto_nav_pioneer_interfaces__py::@afbc3a2e5aa29d59ea3a",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__py-3d043af60bafc3c02418.json",
+					"name" : "auto_nav_pioneer_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__rosidl_generator_c-83c8aaffd40d9963f273.json",
+					"name" : "auto_nav_pioneer_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__rosidl_generator_py-486e31eb2be51df6eb37.json",
+					"name" : "auto_nav_pioneer_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__rosidl_generator_type_description-8e2c11a08467eb872986.json",
+					"name" : "auto_nav_pioneer_interfaces__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__rosidl_typesupport_c-a280500e8fc5c521bd98.json",
+					"name" : "auto_nav_pioneer_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__rosidl_typesupport_cpp-a3f7a3a2a943c64d6299.json",
+					"name" : "auto_nav_pioneer_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__rosidl_typesupport_fastrtps_c-f227ef3c60c86818ee0e.json",
+					"name" : "auto_nav_pioneer_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__rosidl_typesupport_fastrtps_cpp-eedba961860c32a5047e.json",
+					"name" : "auto_nav_pioneer_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__rosidl_typesupport_introspection_c-427946c726cb3f33cd46.json",
+					"name" : "auto_nav_pioneer_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces__rosidl_typesupport_introspection_cpp-b7c4104dd53896cceca0.json",
+					"name" : "auto_nav_pioneer_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces_s__rosidl_typesupport_c-7741aa40feda7c8357f0.json",
+					"name" : "auto_nav_pioneer_interfaces_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces_s__rosidl_typesupport_fastrtps_c-6dcc60052f1aa516966f.json",
+					"name" : "auto_nav_pioneer_interfaces_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces_s__rosidl_typesupport_introspection_c-cadb18a5eb21d6978f65.json",
+					"name" : "auto_nav_pioneer_interfaces_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "auto_nav_pioneer_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auto_nav_pioneer_interfaces_uninstall-e83352d4afaf5961ea34.json",
+					"name" : "auto_nav_pioneer_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ffc90e212f038ee3143c.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_interfaces",
+		"source" : "/home/parallels/workspace/auto_nav_pioneer_ws/src/auto_nav_pioneer_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

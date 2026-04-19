@@ -1,0 +1,4 @@
+source;share/auto_nav_pioneer_interfaces/environment/ament_prefix_path.sh
+source;share/auto_nav_pioneer_interfaces/environment/library_path.sh
+source;share/auto_nav_pioneer_interfaces/environment/path.sh
+source;share/auto_nav_pioneer_interfaces/environment/pythonpath.sh

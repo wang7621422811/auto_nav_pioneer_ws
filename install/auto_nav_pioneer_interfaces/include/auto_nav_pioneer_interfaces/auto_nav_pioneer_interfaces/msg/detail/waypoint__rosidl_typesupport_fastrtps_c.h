@@ -1,0 +1,1 @@
+/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_interfaces/rosidl_typesupport_fastrtps_c/auto_nav_pioneer_interfaces/msg/detail/waypoint__rosidl_typesupport_fastrtps_c.h

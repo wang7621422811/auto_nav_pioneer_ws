@@ -1,0 +1,7 @@
+{
+  "package_name": "auto_nav_pioneer_interfaces",
+  "non_idl_tuples": [
+    "/home/parallels/workspace/auto_nav_pioneer_ws/src/auto_nav_pioneer_interfaces:msg/Waypoint.msg",
+    "/home/parallels/workspace/auto_nav_pioneer_ws/src/auto_nav_pioneer_interfaces:msg/WaypointList.msg"
+  ]
+}

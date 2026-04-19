@@ -1,0 +1,39 @@
+# Waypoints for Gazebo james_oval_mission_world
+# All coordinates in local 'odom' frame (meters)
+# Robot spawns at (-5.0, 0, 0.1) facing +X
+
+waypoints:
+  - id: 0
+    x: 2.5
+    y: 3.0
+    arrival_tolerance: 1.5
+    requires_photo: true
+    cone_side: "right"
+
+  - id: 1
+    x: -3.5
+    y: 2.2
+    arrival_tolerance: 1.5
+    requires_photo: true
+    cone_side: "right"
+
+  - id: 2
+    x: 4.2
+    y: -2.8
+    arrival_tolerance: 1.5
+    requires_photo: true
+    cone_side: "right"
+
+  - id: 3
+    x: -4.8
+    y: -3.5
+    arrival_tolerance: 1.5
+    requires_photo: true
+    cone_side: "right"
+
+  - id: 4
+    x: -5.0
+    y: 0.0
+    arrival_tolerance: 1.0
+    requires_photo: false
+    cone_side: "right"

@@ -1,0 +1,20 @@
+[0.468s] Invoking command in '/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/python3.12/site-packages:/home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_interfaces/lib/python3.12/site-packages:/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg:/home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/python3.12/site-packages:/home/parallels/workspace/dev_pioneer_part_2/install/pioneer_part2/lib/python3.12/site-packages:/home/parallels/auto4508/dev_pioneer_part_2/build/pioneer_part2:/home/parallels/auto4508/dev_pioneer_part_2/install/pioneer_part2/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/build --no-deps symlink_data
+[0.648s] running develop
+[0.755s] running egg_info
+[0.765s] writing auto_nav_pioneer_pkg.egg-info/PKG-INFO
+[0.766s] writing dependency_links to auto_nav_pioneer_pkg.egg-info/dependency_links.txt
+[0.766s] writing entry points to auto_nav_pioneer_pkg.egg-info/entry_points.txt
+[0.766s] writing requirements to auto_nav_pioneer_pkg.egg-info/requires.txt
+[0.766s] writing top-level names to auto_nav_pioneer_pkg.egg-info/top_level.txt
+[0.788s] reading manifest file 'auto_nav_pioneer_pkg.egg-info/SOURCES.txt'
+[0.789s] writing manifest file 'auto_nav_pioneer_pkg.egg-info/SOURCES.txt'
+[0.800s] running build_ext
+[0.800s] Creating /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/python3.12/site-packages/auto-nav-pioneer-pkg.egg-link (link to .)
+[0.800s] Installing fake_odom_node script to /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/auto_nav_pioneer_pkg
+[0.800s] Installing pure_pursuit_controller_node script to /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/auto_nav_pioneer_pkg
+[0.801s] Installing safety_teleop_node script to /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/auto_nav_pioneer_pkg
+[0.801s] Installing waypoint_manager_node script to /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/auto_nav_pioneer_pkg
+[0.801s] 
+[0.801s] Installed /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg
+[0.801s] running symlink_data
+[0.823s] Invoked command in '/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/python3.12/site-packages:/home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_interfaces/lib/python3.12/site-packages:/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg:/home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/python3.12/site-packages:/home/parallels/workspace/dev_pioneer_part_2/install/pioneer_part2/lib/python3.12/site-packages:/home/parallels/auto4508/dev_pioneer_part_2/build/pioneer_part2:/home/parallels/auto4508/dev_pioneer_part_2/install/pioneer_part2/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/build --no-deps symlink_data

@@ -1,0 +1,37 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from auto_nav_pioneer_interfaces/msg/Waypoint.msg
+// generated code does not contain a copyright notice
+
+
+module auto_nav_pioneer_interfaces {
+  module msg {
+    @verbatim (language="comment", text=
+      "A single navigation target for the Pioneer robot." "\n"
+      "Coordinates are in the local 'odom' frame (meters).")
+    struct Waypoint {
+      @verbatim (language="comment", text=
+        "Waypoint sequence number (0, 1, 2...)")
+      uint32 id;
+
+      @verbatim (language="comment", text=
+        "Target position X (meters)")
+      double x;
+
+      @verbatim (language="comment", text=
+        "Target position Y (meters)")
+      double y;
+
+      @verbatim (language="comment", text=
+        "Accept as \"reached\" within this radius (meters)")
+      double arrival_tolerance;
+
+      @verbatim (language="comment", text=
+        "Take a photo when arriving")
+      boolean requires_photo;
+
+      @verbatim (language="comment", text=
+        "\"left\" or \"right\" — which side to leave the cone")
+      string cone_side;
+    };
+  };
+};

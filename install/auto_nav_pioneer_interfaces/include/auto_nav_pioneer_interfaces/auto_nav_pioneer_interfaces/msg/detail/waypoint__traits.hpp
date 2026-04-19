@@ -1,0 +1,1 @@
+/home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_interfaces/rosidl_generator_cpp/auto_nav_pioneer_interfaces/msg/detail/waypoint__traits.hpp

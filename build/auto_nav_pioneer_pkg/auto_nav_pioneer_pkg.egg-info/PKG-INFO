@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: auto-nav-pioneer-pkg
+Version: 0.0.0
+Summary: Pioneer 3-AT autonomous navigation package for AUTO4508
+Maintainer: Leon
+Maintainer-email: 24601787@student.uwa.edu.au
+License: TODO: License declaration
+Provides-Extra: test

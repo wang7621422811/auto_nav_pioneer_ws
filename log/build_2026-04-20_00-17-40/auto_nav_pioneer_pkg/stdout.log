@@ -1,0 +1,64 @@
+running develop
+running egg_info
+creating auto_nav_pioneer_pkg.egg-info
+writing auto_nav_pioneer_pkg.egg-info/PKG-INFO
+writing dependency_links to auto_nav_pioneer_pkg.egg-info/dependency_links.txt
+writing entry points to auto_nav_pioneer_pkg.egg-info/entry_points.txt
+writing requirements to auto_nav_pioneer_pkg.egg-info/requires.txt
+writing top-level names to auto_nav_pioneer_pkg.egg-info/top_level.txt
+writing manifest file 'auto_nav_pioneer_pkg.egg-info/SOURCES.txt'
+reading manifest file 'auto_nav_pioneer_pkg.egg-info/SOURCES.txt'
+writing manifest file 'auto_nav_pioneer_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/python3.12/site-packages/auto-nav-pioneer-pkg.egg-link (link to .)
+Installing fake_odom_node script to /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/auto_nav_pioneer_pkg
+Installing pure_pursuit_controller_node script to /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/auto_nav_pioneer_pkg
+Installing safety_teleop_node script to /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/auto_nav_pioneer_pkg
+Installing waypoint_manager_node script to /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/lib/auto_nav_pioneer_pkg
+
+Installed /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg
+running symlink_data
+creating /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/ament_index
+creating /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/ament_index/resource_index
+creating /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/resource/auto_nav_pioneer_pkg -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/package.xml -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg
+creating /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/launch
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/launch/sim.launch.py -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/launch
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/launch/gazebo_sim.launch.py -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/launch
+creating /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/config
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/config/sim_params.yaml -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/config
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/config/waypoints_sim.yaml -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/config
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/config/gz_bridge.yaml -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/config
+creating /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/urdf
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/urdf/pioneer.urdf -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/urdf
+creating /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/worlds
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/worlds/mission_world.sdf -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/worlds
+creating /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/suporte_base_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/axle.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/kinect.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/left_hubcap.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/tampa4_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/tampa2_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/back_sonar.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/left_hubcap_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/right_hubcap.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/arm_control_box_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/suporte_armControl_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/wheel.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/suporte_kinect_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/chassis.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/suporte_base_mesh2.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/suporte_monitor_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/suporte_depth_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/hokuyo1.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/tampa1_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/back_sonar_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/hokuyo.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/front_sonar.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/top.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/tv_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/tampa3_mesh.dae -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/hokuyo_convex.stl -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
+symbolically linking /home/parallels/workspace/auto_nav_pioneer_ws/build/auto_nav_pioneer_pkg/meshes/kinect.tga -> /home/parallels/workspace/auto_nav_pioneer_ws/install/auto_nav_pioneer_pkg/share/auto_nav_pioneer_pkg/meshes
